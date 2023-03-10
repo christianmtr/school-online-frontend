@@ -1,3 +1,9 @@
 base/node_modules
+base/.next
+base/build
 courses/node_modules
+courses/.next
+courses/build
 courses-list/node_modules
+courses-list/.next
+courses-list/build
